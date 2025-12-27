@@ -61,7 +61,7 @@ The key objectives of this analysis are:
 The dashboard includes:
 - KPI cards for quick performance tracking  
 - Sales trends by outlet establishment year
-- - Sales distribution by outlet size and location  
+- Sales distribution by outlet size and location  
 - Item category and fat-content analysis  
 
 ---
