@@ -2,10 +2,7 @@
 
 ## 📌 Table of Contents
 - [Project Overview](#project-overview)
-- [Business Requirement](#business-requirement)
-- [KPI Requirements](#kpi-requirements)
-- [Granular Requirements](#granular-requirements)
-- [Chart Requirements](#chart-requirements)
+- [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
 - [Tools & Technologies](#tools--technologies)
 - [Methods](#methods)
