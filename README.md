@@ -1,4 +1,4 @@
-# Blinkit Sales Analysis Dashboard
+# Blinkit Sales Analysis & Performance Dashboard
 
 ## 📌 Table of Contents
 - [Project Overview](#project-overview)
